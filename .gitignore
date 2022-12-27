@@ -111,3 +111,4 @@ dmypy.json
 cython_debug/
 .idea/
 testing_venv
+.idea
